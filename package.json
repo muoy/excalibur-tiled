@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "fast-xml-parser": "3.21.1",
-    "pako": "1.0.11",
+    "pako": "2.0.4",
     "zstddec": "0.0.2"
   },
   "peerDependencies": {
